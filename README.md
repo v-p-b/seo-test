@@ -1,5 +1,4 @@
-# seo-test
-index me plz
+# wrongchipmunk
 
 hey, this is cool update!
 
