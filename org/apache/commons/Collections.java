@@ -36,3 +36,5 @@ wild, epic, fine
       solid                                      so solid
                                                  mooing  
 */
+
+class WRONGCHIPMUNK {}
